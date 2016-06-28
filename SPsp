@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Pedido xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EstadoDestino>TO</EstadoDestino>
+  <EstadoOrigem>SP</EstadoOrigem>
+  <NomeCliente>SPsp</NomeCliente>
+  <ItensDoPedido>
+    <PedidoItem>
+      <NomeProduto>SASA</NomeProduto>
+      <CodigoProduto>SASA</CodigoProduto>
+      <ValorItemPedido>2222</ValorItemPedido>
+      <Brinde>false</Brinde>
+    </PedidoItem>
+    <PedidoItem>
+      <NomeProduto>SS</NomeProduto>
+      <CodigoProduto>AAAS</CodigoProduto>
+      <ValorItemPedido>2000</ValorItemPedido>
+      <Brinde>false</Brinde>
+    </PedidoItem>
+  </ItensDoPedido>
+</Pedido>

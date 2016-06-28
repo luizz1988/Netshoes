@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Pedido xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EstadoDestino>TO</EstadoDestino>
+  <EstadoOrigem>SP</EstadoOrigem>
+  <NomeCliente>sp</NomeCliente>
+  <ItensDoPedido>
+    <PedidoItem>
+      <NomeProduto>WQW</NomeProduto>
+      <CodigoProduto>WQWQ</CodigoProduto>
+      <ValorItemPedido>1111</ValorItemPedido>
+      <Brinde>false</Brinde>
+    </PedidoItem>
+  </ItensDoPedido>
+</Pedido>
